@@ -1,6 +1,6 @@
 #include <stdio.h>
-#define DEPTH 40
-#define WIDTH 50
+#define DEPTH 20
+#define WIDTH 64
 #define CYCLE  8
 #define STAR  "*"
 #define SPACE " "
