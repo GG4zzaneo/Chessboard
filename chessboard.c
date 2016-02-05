@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define DEPTH 64
+#define DEPTH 50
 #define WIDTH 50
 #define CYCLE  8
 #define STAR  "*"
